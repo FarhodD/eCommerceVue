@@ -28,7 +28,7 @@
       </div>
   
       <div>
-        <img src="../assets/images/19.jpg" alt="">
+        <img src="/19.jpg" alt="">
       </div>
 
     </div>
